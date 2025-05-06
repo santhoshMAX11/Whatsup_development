@@ -10,3 +10,4 @@ last seen code
 
 attachments ( images, audio, video)
 
+hidding the last seen
