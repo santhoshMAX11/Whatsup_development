@@ -15,3 +15,7 @@ hidding the last seen
 add audio call code
 
 add video call code
+
+add status function code 
+
+add mentioning the person in status code
