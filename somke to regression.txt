@@ -11,3 +11,7 @@ last seen code
 attachments ( images, audio, video)
 
 hidding the last seen
+
+add audio call code
+
+add video call code
