@@ -8,7 +8,7 @@ chat screen code
 
 last seen code
 
-attachments ( images, audio, video)
+attachments ( images, audio, video, documents)
 
 hidding the last seen
 
